@@ -8,3 +8,4 @@ To communicate with RDBMS we used SQL- PRAJYOT
 E R model Entity relational model which explain the typical model of table design - Anshul 
 sql is used by rdbms. omkar jadhav
 creating database- abhishek
+sql is easy to understand   /***omii2110***/
